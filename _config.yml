@@ -1,0 +1,20 @@
+title: Jaxon Didericksen, LPC
+description: Licensed Professional Counselor — bio, credentials, and contact.
+url: "https://jaxond.pro"
+baseurl: ""
+
+author:
+  name: Jaxon Didericksen
+
+# No analytics, no tracking, no third-party embeds.
+
+# Build settings — no theme; custom layouts only
+plugins: []
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - deploy.sh
+  - README.md
+  - .jekyll-cache/
+  - vendor/
