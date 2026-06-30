@@ -9,11 +9,11 @@ permalink: /credentials/
 <ul class="credentials-list">
   <li>
     <span class="credential-label">Degree</span>
-    Master of Arts in Counseling — [University Name], [Year]
+    Master of Social Work (MSW) — Utah State University, 2024
   </li>
   <li>
     <span class="credential-label">Degree</span>
-    Bachelor of [Arts/Science] in [Field] — [University Name], [Year]
+    Bachelor of Social Work (BSW) — Utah State University, 2023
   </li>
 </ul>
 
@@ -22,28 +22,36 @@ permalink: /credentials/
 <ul class="credentials-list">
   <li>
     <span class="credential-label">License</span>
-    Licensed Professional Counselor (LPC) — [State], License #[Number]
+    Certified Social Worker (CSW) — State of Utah, License #14280331-3502
   </li>
 </ul>
 
-## Training &amp; Specializations
+## Experience
 
 <ul class="credentials-list">
   <li>
-    <span class="credential-label">Training</span>
-    [Training or certification — e.g., EMDR Basic Training, [Institute], [Year]]
+    <span class="credential-label">2024 – Present</span>
+    Program Coordinator, Utah State University, Social Work — Help lead the Community Justice Advocate program, a first-of-its-kind training initiative built from the ground up; facilitate bi-weekly skills-based group sessions; and collaborate with community partners and clinicians to align services and connect individuals to resources.
   </li>
   <li>
-    <span class="credential-label">Training</span>
-    [Another training or certification]
+    <span class="credential-label">2023 – 2024</span>
+    Clinical Social Work Intern, Logan City School District (Woodruff Elementary) — Provided weekly individual therapy to children ages 5–11 using strengths-based, solution-focused, and person-centered approaches; conducted culturally responsive bio-psycho-social assessments with parents; and engaged teachers and staff to ensure consistency across school settings.
+  </li>
+  <li>
+    <span class="credential-label">2022 – 2023</span>
+    Social Work Intern, Cache County School District (Sunrise Elementary) — Delivered individual counseling using targeted, solution-focused interventions; facilitated weekly small groups on emotional regulation, social skills, and conflict management; and led classroom social-emotional learning lessons.
   </li>
 </ul>
 
-## Professional Memberships
+## Areas of Practice
 
 <ul class="credentials-list">
   <li>
-    <span class="credential-label">Member</span>
-    [e.g., American Counseling Association (ACA)]
+    <span class="credential-label">Focus</span>
+    Individual and group counseling, bio-psycho-social assessment, and social-emotional learning
+  </li>
+  <li>
+    <span class="credential-label">Approach</span>
+    Strengths-based, person-centered, and solution-focused practice
   </li>
 </ul>
