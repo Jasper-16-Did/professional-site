@@ -5,8 +5,11 @@ permalink: /contact/
 ---
 
 <div class="contact-block">
-  <p><strong>Email:</strong> <a href="mailto:didericksen.jaxon@proton.me">didericksen.jaxon@proton.me</a></p>
-  <p><strong>Location:</strong> Logan, UT</p>
+  <div class="contact-cta">
+    <a class="btn btn-primary" href="mailto:didericksen.jaxon@proton.me">Email me</a>
+  </div>
+  <p class="contact-detail"><strong>Email:</strong> didericksen.jaxon@proton.me</p>
+  <p class="contact-detail"><strong>Location:</strong> Logan, UT</p>
 </div>
 
-Please allow 1–2 business days for a response.
+<p>Please allow 1–2 business days for a response.</p>
